@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg" alt="cover" />
+<img width="100%" height = "350px" src="https://www.7tint.com/wp-content/uploads/2016/10/yo.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
