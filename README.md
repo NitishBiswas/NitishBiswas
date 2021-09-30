@@ -47,19 +47,19 @@
 
 <!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nitishbiswas&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nitishbiswas&compact=True&theme=radical"/>
 </a>
 <br> -->
 
 
 <h2> My GitHub Stats </h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=nitishbiswas&show_icons=true&locale=en'>
+  <img src='https://github-readme-stats.vercel.app/api?username=nitishbiswas&show_icons=true&locale=en&theme=radical'>
   <br>
 
 <h2> Most used languages </h2>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=nitishbiswas&show_icons=true&locale=en&layout=compact'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=nitishbiswas&show_icons=true&locale=en&layout=compact&theme=radical'>
   <br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
