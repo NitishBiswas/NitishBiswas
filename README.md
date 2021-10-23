@@ -46,29 +46,28 @@
 <a href = 'https://github.com/NitishBiswas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp&nbsp
 
 <h2> My GitHub Stats </h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=nitishbiswas&show_icons=true&locale=en&theme=radical'>
+  <img src='https://github-readme-stats.vercel.app/api?username=nitishbiswas&show_icons=true&locale=en&theme=highcontrast'>
   <br>
 
 <h2> Most used languages </h2>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=nitishbiswas&show_icons=true&locale=en&layout=compact&theme=radical'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=nitishbiswas&show_icons=true&locale=en&layout=compact&theme=highcontrast'>
   <br>
   
 <h2> My GitHub Readme Streak Stats </h2>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=nitishbiswas&theme=radical'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=nitishbiswas&theme=highcontrast'>
   <br>
   
-
 <h2> My GitHub Profile Trophy </h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishbiswas&theme=radical" alt="nitishbiswas" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishbiswas&theme=juicyfresh" alt="nitishbiswas" /></a> </p>
   <br>
   
   <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nitish_Biswas&compact=True&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nitish_Biswas&compact=True&theme=highcontrast"/>
 </a>
 <br>
 
   
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
