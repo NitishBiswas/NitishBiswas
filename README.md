@@ -58,7 +58,7 @@
   <br>
   
 <h2> My GitHub Profile Trophy </h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishbiswas&theme=juicyfresh" alt="nitishbiswas" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishbiswas&theme=juicyfresh&margin-w=10" alt="nitishbiswas" /></a> </p>
   <br>
   
   <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
