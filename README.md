@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NitishBiswas.https://github.com/NitishBiswas)
+![Visitor Count](https://komarev.com/ghpvc/?username=NitishBiswas)
 
 </p>
   <div size='20px'> <h3>Hi! My name is Nitish Biswas.</h3>  <h4>A passionate Mobile App Developer from Bangladesh.</h4> <h4>Thank You for taking the time to view my GitHub Profile :smile: </h4>
